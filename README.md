@@ -1,2 +1,2 @@
 # Vaccine-registration-system
-registers and appoints a vaccine slot to user.
+Registers and appoints a vaccine slot to user.
